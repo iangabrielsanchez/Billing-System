@@ -10,5 +10,5 @@ Billing system made using visual basic. It's functional but somewhat buggy.
   2. Click start
 
 ## Authors
-  Ian Gabriel C. Sanchez
-  Tjakoen A. Stolk
+  > Ian Gabriel C. Sanchez
+  > Tjakoen A. Stolk
