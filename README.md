@@ -8,3 +8,7 @@ Billing system made using visual basic. It's functional but somewhat buggy.
 ## Build Instructions
   1. Open the solution in Visual Studio
   2. Click start
+
+## Authors
+  Ian Gabriel C. Sanchez
+  Tjakoen A. Stolk
