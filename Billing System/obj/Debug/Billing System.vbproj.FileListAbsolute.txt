@@ -1,0 +1,50 @@
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\bin\Debug\Billing System.exe.config
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\bin\Debug\Billing System.application
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.vbprojResolveAssemblyReference.cache
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.AddUser.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.DiscountDialog.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.EnterPin.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.InputCash.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.Loading.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.Login.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.Resources.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.PopupInventory.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing_System.SalesInterface.resources
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.vbproj.GenerateResource.Cache
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.application
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.exe
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.xml
+C:\Users\ianga\Desktop\Billing System\Source Files\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\Billing System.exe.config
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.exe
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.xml
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.pdb
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\Billing System.exe.manifest
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\Billing System.application
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.vbprojResolveAssemblyReference.cache
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddItem.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.AddUser.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.DiscountDialog.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.EnterPin.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.InputCash.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.Loading.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.Login.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.MainForm.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.Resources.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.PopupInventory.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing_System.SalesInterface.resources
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.vbproj.GenerateResource.Cache
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.exe.manifest
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\obj\Debug\Billing System.application
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\itextsharp.dll
+C:\Users\Ian\Desktop\Source Files\Billing System\Billing System\Billing System\bin\Debug\itextsharp.xml
