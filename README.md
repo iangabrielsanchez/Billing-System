@@ -1,5 +1,5 @@
 # Billing-System
-Billing system made using visual basic. It's functional but somewhat buggy.
+Billing system made using visual basic. 
 
 ## Prerequisite(s)
   1. Visual Studio 2010 or newer
